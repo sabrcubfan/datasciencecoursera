@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for ToolBox class
+Repo for John Hopkins Data Science Courses
